@@ -1,5 +1,5 @@
 # Mancala GAME
-Game of [Mancala](https://en.wikipedia.org/wiki/Mancala). Mancala is a 2-player, turn-based strategy board game based on small stones on a board. The objective is to capture more stones than your opponent. There are many varieties of the game depending on the region. THIS IS ONE.
+[Mancala](https://en.wikipedia.org/wiki/Mancala) is a 2-player, turn-based strategy board game based on small stones on a board. The objective is to capture more stones than your opponent. There are many varieties of the game depending on the region. THIS IS ONE.
 
 This project implements the game logic.
 
